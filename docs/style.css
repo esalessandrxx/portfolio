@@ -18,6 +18,9 @@ body{
 h2,.white{
     color: #fff;
 }
+h3, .white{
+    color: #FFF
+}
 
 a{
     color: #7A7C80;
